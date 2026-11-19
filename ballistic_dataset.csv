@@ -1,0 +1,17 @@
+sno,layer1,layer2,layer3,velocity_ms,total_deformation_mm,von_mises_stress_mpa,directional_deformation_mm,equivalent_elastic_strain
+1,Kevlar,Basalt,Kevlar,350,120.08,21585,27.35,0.97986
+2,Kevlar,Basalt,Kevlar,400,138.40,23840,31.62,1.082
+3,Kevlar,Basalt,Kevlar,450,156.70,26190,35.84,1.184
+4,Kevlar,Basalt,Kevlar,500,175.30,28470,40.15,1.296
+5,Basalt,Kevlar,Basalt,350,113.60,20840,25.48,0.914
+6,Basalt,Kevlar,Basalt,400,129.80,23060,29.21,1.018
+7,Basalt,Kevlar,Basalt,450,147.20,25280,33.07,1.126
+8,Basalt,Kevlar,Basalt,500,164.90,27540,37.12,1.238
+9,Kevlar,Basalt,Epoxy,350,116.30,21210,26.14,0.936
+10,Kevlar,Basalt,Epoxy,400,132.90,23490,29.86,1.043
+11,Kevlar,Basalt,Epoxy,450,150.80,25760,33.91,1.157
+12,Kevlar,Basalt,Epoxy,500,169.50,28020,38.07,1.271
+13,Kevlar,Epoxy,Basalt,350,109.70,20180,24.73,0.891
+14,Kevlar,Epoxy,Basalt,400,125.60,22370,28.31,0.993
+15,Kevlar,Epoxy,Basalt,450,142.80,24640,32.18,1.104
+16,Kevlar,Epoxy,Basalt,500,160.70,26890,36.24,1.216

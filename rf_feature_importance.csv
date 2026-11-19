@@ -1,0 +1,10 @@
+,total_deformation_mm,von_mises_stress_mpa,directional_deformation_mm,equivalent_elastic_strain
+cat__layer1_Basalt,0.0012,0.0017,0.0008,0.0017
+cat__layer1_Kevlar,0.0011,0.0019,0.0009,0.0014
+cat__layer2_Basalt,0.0117,0.0094,0.0111,0.0138
+cat__layer2_Epoxy,0.0111,0.015,0.0127,0.01
+cat__layer2_Kevlar,0.0014,0.0012,0.0009,0.002
+cat__layer3_Basalt,0.019,0.0083,0.02,0.0205
+cat__layer3_Epoxy,0.0029,0.0015,0.0025,0.0041
+cat__layer3_Kevlar,0.0112,0.0046,0.0281,0.0124
+num__velocity_ms,0.9404,0.9565,0.923,0.9341

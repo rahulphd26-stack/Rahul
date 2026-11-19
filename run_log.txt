@@ -1,0 +1,17 @@
+total_deformation_mm         Linear Regression    LOOCV R2=0.9969  RKF R2=0.9889  LOVO R2=0.9960
+total_deformation_mm         Random Forest        LOOCV R2=0.9247  RKF R2=0.8276  LOVO R2=0.2005
+total_deformation_mm         SVR (tuned, scaled)  LOOCV R2=0.9968  RKF R2=0.9885  LOVO R2=0.9955
+von_mises_stress_mpa         Linear Regression    LOOCV R2=0.9996  RKF R2=0.9960  LOVO R2=0.9997
+von_mises_stress_mpa         Random Forest        LOOCV R2=0.9330  RKF R2=0.8231  LOVO R2=0.1974
+von_mises_stress_mpa         SVR (tuned, scaled)  LOOCV R2=0.9996  RKF R2=0.9958  LOVO R2=0.9996
+directional_deformation_mm   Linear Regression    LOOCV R2=0.9953  RKF R2=0.9814  LOVO R2=0.9951
+directional_deformation_mm   Random Forest        LOOCV R2=0.9079  RKF R2=0.7954  LOVO R2=0.2099
+directional_deformation_mm   SVR (tuned, scaled)  LOOCV R2=0.9952  RKF R2=0.9808  LOVO R2=0.9941
+equivalent_elastic_strain    Linear Regression    LOOCV R2=0.9982  RKF R2=0.9866  LOVO R2=0.9971
+equivalent_elastic_strain    Random Forest        LOOCV R2=0.9157  RKF R2=0.7728  LOVO R2=0.2009
+equivalent_elastic_strain    SVR (tuned, scaled)  LOOCV R2=0.9978  RKF R2=0.9866  LOVO R2=0.9965
+Done. Outputs in results/ and figures/
+
+real	2m8.077s
+user	2m7.038s
+sys	0m0.204s

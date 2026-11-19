@@ -1,0 +1,13 @@
+target,model,LOOCV_R2,LOOCV_MAE,LOOCV_RMSE,RKF_R2_mean,RKF_R2_std,LOVO_R2,LOVO_MAE,LOVO_RMSE
+total_deformation_mm,Linear Regression,0.9969,0.9549,1.1348,0.9889,0.0258,0.996,1.0196,1.2767
+total_deformation_mm,Random Forest,0.9247,4.2337,5.5483,0.8276,0.2823,0.2005,17.9671,18.0845
+total_deformation_mm,"SVR (tuned, scaled)",0.9968,0.9203,1.1425,0.9885,0.0277,0.9955,1.139,1.3598
+von_mises_stress_mpa,Linear Regression,0.9996,42.348,50.638,0.996,0.0139,0.9997,38.0432,47.5946
+von_mises_stress_mpa,Random Forest,0.933,523.4125,670.0221,0.8231,0.2841,0.1974,2305.8531,2318.8096
+von_mises_stress_mpa,"SVR (tuned, scaled)",0.9996,42.5646,52.2707,0.9958,0.0141,0.9996,40.3291,49.9859
+directional_deformation_mm,Linear Regression,0.9953,0.2526,0.317,0.9814,0.0451,0.9951,0.2539,0.3262
+directional_deformation_mm,Random Forest,0.9079,1.0989,1.4072,0.7954,0.3485,0.2099,4.0836,4.1217
+directional_deformation_mm,"SVR (tuned, scaled)",0.9952,0.2545,0.3219,0.9808,0.0455,0.9941,0.3008,0.3576
+equivalent_elastic_strain,Linear Regression,0.9982,0.0045,0.0054,0.9866,0.0336,0.9971,0.0054,0.0068
+equivalent_elastic_strain,Random Forest,0.9157,0.0296,0.0364,0.7728,0.4366,0.2009,0.111,0.112
+equivalent_elastic_strain,"SVR (tuned, scaled)",0.9978,0.005,0.0058,0.9866,0.0342,0.9965,0.0061,0.0074
