@@ -52,5 +52,3 @@ Small dataset (16 runs, one plate thickness, one projectile); no mesh-convergenc
 experimental validation or residual-velocity/ballistic-limit analysis; weight and cost are not
 quantified. The surrogates are valid only inside the sampled design space.
 
-## Authors
-[Add names / roll numbers]
